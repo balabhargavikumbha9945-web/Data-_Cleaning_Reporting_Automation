@@ -1,0 +1,12 @@
+Order_ID,Date,Customer,City,Product,Quantity,Price,Sales
+1001,01-09-2026,Ravi,Hyderabad,Laptop,2.0,50000,100000.0
+1002,02-09-2026,Priya,Bangalore,Mouse,5.0,800,4000.0
+1003,03-09-2026,Arun,Chennai,Keyboard,3.0,1500,4500.0
+1004,04-09-2026,Ravi,Hyderabad,Laptop,1.0,50000,50000.0
+1005,05-09-2026,Sneha,Mumbai,Monitor,2.0,12000,24000.0
+1006,06-09-2026,Priya,Bangalore,Mouse,0.0,800,0.0
+1007,07-09-2026,Arun,Chennai,Keyboard,3.0,1500,4500.0
+1008,08-09-2026,Sneha,Mumbai,Monitor,2.0,12000,24000.0
+1009,09-09-2026,Kiran,Hyderabad,Laptop,1.0,50000,50000.0
+1010,10-09-2026,Kiran,Hyderabad,Laptop,2.0,50000,100000.0
+1011,Unknown,Meena,Chennai,Keyboard,4.0,1500,6000.0
